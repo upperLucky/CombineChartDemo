@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="hs_text_929292">#929292</color>
+    <color name="hs_text_666666">#666666</color>
+    <color name="hszq_viewbg_green">#1aa665</color>
+    <color name="finance_line_ff8200">#ff8200</color>
+    <color name="finance_line_c9c9ca">#c9c9ca</color>
+    <color name="hs_font_color_333333">#333333</color>
+    <color name="htjc_white">#FFFFFF</color>
+</resources>
